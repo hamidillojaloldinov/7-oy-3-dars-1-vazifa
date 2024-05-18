@@ -42,6 +42,7 @@ function App() {
                 type="text"
                 placeholder="Create a new todo…"
                 ref={inputRef}
+                required
               />
             </label>
           </form>
